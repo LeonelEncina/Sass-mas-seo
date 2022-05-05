@@ -1,0 +1,4 @@
+1 con seo  si mi imagen por algun momento no llega a cagar  puse  un Alt : que ayude al usuario saber que era la imagen
+2 puse un meta para que el titulo sea mas para que sea algo espefifico pero generico
+3 puse para que el buscador  busque cosas genericas relacionadas a el contenido de mi page
+4 puse un title  relacionado al contenido de mi page y que aumente el potencial de visitas de la misma

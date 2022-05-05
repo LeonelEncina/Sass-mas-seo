@@ -295,5 +295,13 @@
     "yargs": "^17.4.1",
     "yargs-parser": "^20.2.9"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeonelEncina/Sass-mas-seo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LeonelEncina/Sass-mas-seo/issues"
+  },
+  "homepage": "https://github.com/LeonelEncina/Sass-mas-seo#readme",
   "description": ""
 }
